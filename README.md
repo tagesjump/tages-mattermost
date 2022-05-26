@@ -2,13 +2,15 @@
 
 Communication with the team has never been so pleasant before with corporate themes in two versions - light and dark.
 
-## How to apply theme
+## How to apply
 
 Go to `Settings` -> `View` -> `Theme` -> `Change` and apply the theme.
 
 ## Light
 
 ![One Dark Mattermost Preview](sample/light-theme.png)
+
+## Style
 
 ```json
 {
@@ -43,6 +45,8 @@ Go to `Settings` -> `View` -> `Theme` -> `Change` and apply the theme.
 # Dark
 
 ![One Dark Mattermost Preview](sample/dark-theme.png)
+
+## Style
 
 ```json
 {
